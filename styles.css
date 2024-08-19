@@ -1,0 +1,134 @@
+h1 {
+    font-family: "Bodoni Moda SC", serif;
+    text-decoration: underline;
+    font-size: 40px;
+    font-weight: 700;
+    color: #3d3a3a;
+}
+
+h2{
+    font-family: Sedan, serif;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+h3 {
+    font-family: Sedan, serif;
+    font-size: 20px;
+    font-weight: 500;
+    text-decoration: underline;
+}
+/* Colors */
+.colors {
+    border: 2px solid #C2B5A8;
+    padding: 10px;
+    margin: 10px auto;
+    width: 90%;
+}
+
+.colors div{
+    display: inline-block;
+    height: 100px;
+    width: 30%;
+    margin: 5px auto;
+}
+
+.colors p{
+    font-family: Montserrat, sans-serif;
+}
+
+.cyan {
+    background-color: #00FFFF;
+    text-align: center;
+}
+
+.tangerine {
+    background-color: #F28500;
+    text-align: center;
+}
+
+.light-coral {
+    background-color: #F08080;
+    text-align: center;
+}
+
+.peach {
+    background-color: #FFE5B4;
+    text-align: center;
+}
+
+.warm-grey{
+    background-color: #C2B5A8;
+    text-align: center;
+}
+
+.dark-grey {
+    background-color: #3d3a3a;
+    text-align: center;
+    color: white;
+}
+
+/* Fonts */
+.fonts {
+    border: 2px solid #C2B5A8;
+    padding: 10px;
+    margin: 10px auto;
+    width: 90%;
+}
+
+.font-heading{
+    font-size: 30px;
+    text-align: center;
+}
+
+.fonts div{
+    margin: 10px auto;
+    height: 100px;
+    display: inline-block;
+    padding: 10px;
+}
+
+.fonts div h2{
+    text-decoration: underline;
+}
+
+.montserrat p, .sedan p, .bodoni p{
+    font-size: 13px;
+}
+
+.montserrat p {
+    font-family: Montserrat, sans-serif;
+}
+
+.sedan p {
+    font-family: sedan, serif;
+}
+
+.bodoni p {
+    font-family: "Bodoni Moda SC", serif;
+}
+
+.bold {
+    font-weight: 800;
+}
+
+.italic {
+    font-style: italic;
+}
+
+/* Text Styles */
+.text-styles {
+    border: 2px solid #C2B5A8;
+    padding: 10px;
+    margin: 10px auto;
+    width: 90%;
+}
+
+.text-styles h2, .text-styles div {
+    margin-left: 10px;
+}
+
+.text-styles ul, .text-styles p {
+    font-family: Montserrat, sans-serif;
+    font-size: 13px;
+}
